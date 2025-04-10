@@ -7,7 +7,7 @@ ran through a set of test cases, and the results will be reported back to you.
 This should give you an opportunity to verify that your code is compiling and
 behaving as expected before you submit it.
 
-## Viewing the workflow report
+##Viewing the workflow report
 
 If you click on the red X that currently appears to the right of the latest
 commit message in this repo and click on details, you will be taken to a log
